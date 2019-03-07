@@ -1,2 +1,7 @@
-# lab-4C15-2019-1-SSP-Project-1
-##Creación de un proyecto
+# lab-4C15-2018-1-JGM-Project 
+
+Descripción breve del proyecto
+
+## Getting Started
+
+Instrucciones para empezar el proyecto
